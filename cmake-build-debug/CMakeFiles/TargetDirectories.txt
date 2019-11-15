@@ -1,0 +1,3 @@
+C:/Users/stefa/CLionProjects/jac-2019-projekt-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stefa/CLionProjects/jac-2019-projekt-1/cmake-build-debug/CMakeFiles/jac_2019_projekt_1.dir
+C:/Users/stefa/CLionProjects/jac-2019-projekt-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
