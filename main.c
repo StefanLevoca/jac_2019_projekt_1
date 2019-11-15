@@ -7,6 +7,7 @@ int main() {
     int length;
     printf("Give me a number denoting the array size \n");
     scanf("%d", &length);
+
     // podmienka dalsieho pokracovania v programe, maximalna hodnota pre int zavisi od systemu, pre
     // iste vstupy pod teoretickym maximom program padne, kedze skutocne maximum pre dany system bolo prekrocene
     if (length < 0 || length > INT_MAX) {
@@ -15,6 +16,7 @@ int main() {
     }
     int array[length];
     // naplnenie pola nahodnymi celymi kladnymi cislami v rozsahu 0 do RAND_MAX
+
     int i;
     for (i = 0; i < length; i++) {
         array[i] = rand();
